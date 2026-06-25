@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#2e7d32" # Verde escuro para botões e destaques
+backgroundColor = "#0e1117" # Fundo escuro
+secondaryBackgroundColor = "#1d2430" # Fundo dos cartões e tabelas
+textColor = "#ffffff" # Texto branco
+font = "sans serif"
